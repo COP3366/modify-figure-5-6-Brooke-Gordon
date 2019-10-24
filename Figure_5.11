@@ -40,7 +40,7 @@ static void Main()
     }
     else // no grades wer entered, so output error message
     {
-        Console.WriteLine("No grades wer entered");
+        Console.WriteLine("No grades were entered");
     }
  }
 }
